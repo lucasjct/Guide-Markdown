@@ -1,6 +1,8 @@
+```
 # Título 
 
-# Título 2 #  
+# Título 2 
+
 O título e os níveis de título podem ser definidos com **(#)**.
 
 ### Título 3
@@ -9,19 +11,21 @@ O título e os níveis de título podem ser definidos com **(#)**.
 
 #### Título 5
 
-
 # Parágrafo
+
 
 Parágrafo no markdown se constrói com a inserção de **_dois espaços em branco no final do parágrafo_**.
 
 Basta apertar o Enter duas vezes para inserir um espaçamento entre parágrafos.
+
+Para pular de linha, basta aberta a tecla espaço duas vezes
 
 
 # Ênfase
 
 ## Negrito
 
-**Para colocar a palavra em negitro utilizo 2 asterisco** 
+**Para colocar a palavra em negitro utilizo 2(**) asterisco no ínicio e no fim da palvra** 
 
 __Posso também__ acrescentar 2 underlines
 
@@ -254,3 +258,4 @@ describe ('Istagram interation', () => {
   ```
 
   **OBS: Para dar destaque à linnguagem do códico, basta declarar a linguagem logo após as primeiras crases.**
+  ```
