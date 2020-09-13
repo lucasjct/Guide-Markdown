@@ -1,5 +1,6 @@
 # Guide-Markdown
 
+Pequeno guia para auxiliar no uso de Markdown no cotidiano.
 
 Este guia é resultado de: [Aprenda Markdown](https://www.udemy.com/course/aprenda-markdown/learn/lecture/12217264?start=30#overview)
 
