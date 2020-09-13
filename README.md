@@ -6,7 +6,7 @@ Este guia é resultado de: [Aprenda Markdown](https://www.udemy.com/course/apren
 
 ---
 
-### Índice:
+### Navegue pelo Índice:
 <a name="links"></a>
 * [Títulos e seus níveis](#link1)
 * [Parágrafos](#link2)
