@@ -6,7 +6,7 @@ Este guia é resultado de: [Aprenda Markdown](https://www.udemy.com/course/apren
 
 ---
 
-### Navegue pelo Índice:
+### Navegue pelo Índice: :blush:
 <a name="links"></a>
 * [Títulos e seus níveis](#link1)
 * [Parágrafos](#link2)
@@ -57,7 +57,19 @@ a inserção de **_dois espaços em branco no final da linha_**.
 ```
 *itálico*
 __bold__
+```   
+Podemos misturar bold e itálico para reforçar o destaque.
+
+__*Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum*__
+
+
+__*Como fazer:*__
+
+
 ```
+__*Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum*__
+```
+
 <a id="link4"></a>
 
 ## Citações e Riscar Palavra
@@ -205,25 +217,25 @@ Nome C | 22 |Designer |
 Nome | Idade | Profissão|
 :-----:|:-------:|:----------|
 Nome A | 35 |  Desenvolvedor |  
-Nome B | 30 | Quality Anssurance |  
+Nome B | 30 | Quality Assurance |  
 Nome C | 22 |Designer |
+Nome C | 22 |DevOps |
 
 __*Como fazer:*__
 
-## Exemplo 2
 ```
 
 Nome | Idade | Profissão|
 :-----:|:-------:|:----------|
 Nome A | 35 |  Desenvolvedor |  
-Nome B | 30 | Quality Anssurance |  
+Nome B | 30 | Quality Assurance |  
 Nome C | 22 |Designer |
 ```
 <a id="link10"></a>
 
 ## Listas
-Nos exemplos abaixo, temos listas ordenadas e não ordernadas. 
-OBS: Para garantir, lembre-se de inserir dois espaços ao fim de cada item antes de pular de linha com o Enter.
+Nos exemplos abaixo, temos listas ordenadas e não ordernadas.   
+OBS: Para garantir, lembre-se de inserir dois espaços ao fim de cada item antes de pular de linha com o Enter. Lembrar também que devemos colocar um espaço depois de cada símbolo.
 
 
 ### Lista não ordenada com '`*`':
@@ -410,8 +422,3 @@ describe ('Istagram interation', () => {
     cy.wait(3000) 
   })```
 ```
-
-
-
-
- 
