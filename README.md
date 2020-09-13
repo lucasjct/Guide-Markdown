@@ -97,7 +97,7 @@ __*Como fazer:*__
 [Click Aqui](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
 ```
 
-### 2) nomeando o link no momento do hover:
+### 2) Definindo o link com uma flag com o nome do site. Ela será exibida ao pararmos a seta do mouse no link:
 
 Exemplo:
 
@@ -151,10 +151,10 @@ __*Como fazer:*__
 ## Links com Imagens
 Podemos também linkar as imagens.
 
-### 1) Imagem linkada e com hover definido.
+### 1) Imagem linkada e com flag definida. Ela será exibida ao pararmos a seta do mouse na imagem.
 Exemplo:
 
-[![Markdown](https://static.thenounproject.com/png/2071725-200.png)](https://github.com/, "GitHub")
+[![GitHub](https://static.thenounproject.com/png/2071725-200.png)](https://github.com/, "GitHub")
 
 __*Como fazer:*__
 ```
