@@ -235,7 +235,7 @@ Nome C | 22 |Designer |
 
 ## Listas
 Nos exemplos abaixo, temos listas ordenadas e não ordernadas.   
-OBS: Para garantir, lembre-se de inserir dois espaços ao fim de cada item antes de pular de linha com o Enter. Lembrar também que devemos colocar um espaço depois de cada símbolo.
+OBS: Para garantir, lembre-se de inserir dois espaços ao fim de cada item antes de pular de linha com a tecla Enter. Lembrar também que devemos colocar um espaço depois de cada símbolo.
 
 
 ### Lista não ordenada com '`*`':
