@@ -359,13 +359,15 @@ Podemos destacar uma linha de comando ou um bloco de código.
 Exemplo:
 
 `npm init`  
-`mkdir <nome da pasta>`
+`mkdir <nome da pasta>`   
 `print('Hello Word')`
 
 __*Como fazer:*__
 ```
 `npm init`  
-`mkdir <nome da pasta>`
+`mkdir <nome da pasta>`  
+`print('Hello Word')`
+
 ```
 ### 2) Bloco de Códido  
 
