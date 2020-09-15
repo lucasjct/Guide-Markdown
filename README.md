@@ -360,13 +360,14 @@ Exemplo:
 
 `npm init`  
 `mkdir <nome da pasta>`
+`print('Hello Word')`
 
 __*Como fazer:*__
 ```
 `npm init`  
 `mkdir <nome da pasta>`
 ```
-### 2) Bloco de Códido com o estilo da linguagem em questão.
+### 2) Bloco de Códido  
 
 Exemplo:
 
