@@ -19,6 +19,8 @@ Este guia é resultado de: [Aprenda Markdown](https://www.udemy.com/course/apren
 * [Tabelas](#link9)
 * [Listas](#link10)
 * [Highlight - Destacar trechos de códigos](#link11)
+* [Criando checkbox](#link12)
+
 
 ***
 
@@ -424,4 +426,34 @@ describe ('Istagram interation', () => {
     .should('contain', 'Instagram')
     cy.wait(3000) 
   })```
+```   
+<a id="link12"></a>
+### Criando checkbox
+
+A maneira de criar checkbox, é semelhante às listas. Exceto que devemos colocar '[]'após o hífen. Vejamos abaixo em *como fazer*:  
+
+Exemplo:  
+
+- [ ] Garantir que o status code retornou 200
+- [x] Verficar se o usuário foi cadastrado
+- [x] Verificar se o evento foi disparado
+- [x] Garantir que não houve quebra no layout
+- [ ] Garantir que o escopo foi atendido
+- [ ] Verificar se deve ser colocado em homologação
+- [ ] Acompanhar as Métricas
+- [ ] Avisar ao PO que a tarefa foi completada
+- [ ] Encerrar a tarefa
+
+__*Como fazer:*__  
+
+```
+- [ ] Garantir que o status code retornou 200
+- [x] Verficar se o usuário foi cadastrado
+- [x] Verificar se o evento foi disparado
+- [x] Garantir que não houve quebra no layout
+- [ ] Garantir que o escopo foi atendido
+- [ ] Verificar se deve ser colocado em homologação
+- [ ] Acompanhar as Métricas
+- [ ] Avisar ao PO que a tarefa foi completada
+- [ ] Encerrar a tarefa
 ```
