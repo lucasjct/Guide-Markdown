@@ -49,7 +49,7 @@ Exemplo:
 ## Parágrafos  
 
 Parágrafo ou 'Pula Linha'no markdown se constrói com 
-a inserção de **_dois espaços em branco no final de cada caractere**. 
+a inserção de **_dois espaços em branco no final de cada caractere_**. 
 
 
 <a id="link3"></a>
