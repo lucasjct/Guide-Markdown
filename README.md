@@ -48,7 +48,7 @@ Exemplo:
 <a id="link2"></a>
 ## Parágrafos  
 
-Parágrafo ou 'Pula Linha'no markdown se constrói com 
+Parágrafo ou 'Pular Linha'no markdown se constrói com 
 a inserção de **_dois espaços em branco no final de cada caractere_**. 
 
 
